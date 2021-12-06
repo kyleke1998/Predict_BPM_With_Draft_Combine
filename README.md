@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64662601/144792350-ffec0e6e-6017-488a-92ec-8e27ea14d9c1.png)
+![image](https://user-images.githubusercontent.com/64662601/144793374-320ddb0a-1675-4ad5-9955-9f6e73a5d33b.png)
 ### (See *report.pdf* for methods, results, and conclusions)
 This project investigates the potential of using anthropometric and strength/agility measurements from draft combine to predict a player’s first-year and four-year average Box Plus/Minus (BPM) both as a regression problem and classification problem.
 
